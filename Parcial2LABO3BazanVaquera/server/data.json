@@ -1,0 +1,54 @@
+{
+  "anuncios": [
+    {
+      "id": 1,
+      "titulo": "Luli",
+      "animal": "Gato",
+      "descripcion": "Luli el mejor gato",
+      "precio": 1500,
+      "raza": "Siames",
+      "nacimiento": "2022-11-30",
+      "vacuna": "Si"
+    },
+    {
+      "id": 2,
+      "titulo": "Kati",
+      "animal": "Perro",
+      "descripcion": "Kati perry",
+      "precio": "2000",
+      "raza": "Abisinio",
+      "nacimiento": "2022-11-30",
+      "vacuna": "No"
+    },
+    {
+      "id": 3,
+      "titulo": "Bety",
+      "animal": "Gato",
+      "descripcion": "Bety perroo",
+      "precio": "10",
+      "raza": "Americano0",
+      "nacimiento": "2022-11-30",
+      "vacuna": "Si"
+    },
+    {
+      "id": 4,
+      "titulo": "Michi",
+      "animal": "Gato",
+      "descripcion": "Michi blacno",
+      "precio": "150",
+      "raza": "Raza rara",
+      "nacimiento": "2022-11-23",
+      "vacuna": "Si"
+    },
+    {
+      "id": 5,
+      "titulo": "Luli",
+      "animal": "Perro",
+      "descripcion": "Luli mi mascota gato",
+      "precio": "1500",
+      "raza": "Siames",
+      "nacimiento": "2022-11-10",
+      "vacuna": "No"
+    }
+  ]
+}

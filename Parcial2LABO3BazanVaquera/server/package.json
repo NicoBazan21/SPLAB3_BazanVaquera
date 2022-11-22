@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server -w data.json -d 1500"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
